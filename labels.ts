@@ -1,0 +1,5 @@
+export const FOOTER_SITEMAP_HEADING: string = "Site Map"
+export const FOOTER_SUBSCRIBE_HEADING: string = "Get In Touch"
+export const FOOTER_EMAIL: string = "kiranchinthu2309@gmail.com"
+export const FOOTER_PHONE: string = "+91 9959993773"
+// export const FOOTER_SITEMAP_HEADING : string = "Site Map"
